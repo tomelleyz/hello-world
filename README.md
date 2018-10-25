@@ -1,2 +1,4 @@
 # hello-world
-My personal website
+### My Personal Website
+
+I am a Software Developer who is interested in building web, desktop and mobile applications.
